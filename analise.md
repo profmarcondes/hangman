@@ -18,11 +18,12 @@ Detalhamento dos casos de uso:
 
 - [UC1: Jogar](uc01.md)
 
-<div align="center">
  
 ## Diagrama de Domínio do problema
 
 Elaborar um diagrama conceitual do domínio do problema.
+
+<div align="center">
 
 [Retroceder](README.md) | [Avançar](projeto.md)
 
