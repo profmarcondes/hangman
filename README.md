@@ -4,9 +4,9 @@
 
 # Hangman
 
-## Implementação do jogo da Forca
+### Implementação do jogo da Forca
 
-> Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
+> Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orientada a objetos. 
 > 
 > Aluno: Nome do aluno  
 > Professor: Hugo Marcondes
